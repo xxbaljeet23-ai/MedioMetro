@@ -1,0 +1,16 @@
+{
+  "bakeKujiraNormalSpawnProbability": 35,
+  "bakeKujiraNightSpawnProbability": 65,
+  "bakeKujiraRainSpawnProbability": 85,
+  "leviathanNormalSpawnProbability": 7,
+  "leviathanNightSpawnProbability": 15,
+  "leviathanRainSpawnProbability": 30,
+  "leviathanThunderSpawnProbability": 50,
+  "leviathanNormalSpawnSeparationRadius": 120,
+  "leviathanNightSpawnSeparationRadius": 120,
+  "leviathanRainSpawnSeparationRadius": 80,
+  "leviathanThunderSpawnSeparationRadius": 60,
+  "krakenNormalSpawnProbability": 3,
+  "krakenRainSpawnProbability": 10,
+  "krakenThunderSpawnProbability": 15
+}
